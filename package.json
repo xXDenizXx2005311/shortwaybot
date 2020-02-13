@@ -1,0 +1,28 @@
+{
+  "name": "CTK_MUSIC",
+  "version": "6.9.9",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CTK WARRIOR",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "discord.js": "^11.5.1",
+    "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.3.2",
+    "node-opus": "^0.3.3",
+    "simple-youtube-api": "^5.2.1",
+    "solenolyrics": "^5.0.0",
+    "ytdl-core": "^1.0.3",
+    "quick.db": "^6.3.2",
+    "node-fetch": "^2.6.0",
+    "weather.js": "^0.1.0",
+    "weather-js": "^2.0.0"
+  }
+}
